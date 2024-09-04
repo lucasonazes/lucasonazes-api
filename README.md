@@ -1,2 +1,2 @@
 # blog-backend
-Back-End de um blog com Strapi 
+API backend do meu portfólio criada em C#.
